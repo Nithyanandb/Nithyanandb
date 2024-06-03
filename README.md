@@ -10,8 +10,8 @@ I'm a passionate software developer with a knack for crafting innovative solutio
 - **Databases:** MySQL
 
 ## Featured Projects
-- **[Blog-Website](https://github.com/Nithyanandb/WeBlog):** Embark on a journey through the digital realm with WeBlog, where adventures, tips, and stories from travels around the globe come to life. It's not just a blog—it's a companion, a confidant, and a canvas for sharing experiences and insights with fellow wanderers.
-- **[Flight_Ticket_Database](https://github.com/Nithyanandb/Flight_Ticket_Database):** Dive into the world of flight management with the Flight Ticket Database—a meticulously curated repository housing essential details about flight tickets. From flight numbers to passenger information, it's the compass guiding airlines, travel agencies, and passengers through seamless flight experiences.
+- **[Blog-Website](https://github.com/Nithyanandb/WeBlog):** Embark on a journey through the digital realm with WeBlog, where adventures, tips, and stories from travels around the globe come to life. It's not just a blog it's a companion, a confidant, and a canvas for sharing experiences and insights with fellow wanderers.
+- **[Flight_Ticket_Database](https://github.com/Nithyanandb/Flight_Ticket_Database):** Dive into the world of flight management with the Flight Ticket Database a meticulously curated repository housing essential details about flight tickets. From flight numbers to passenger information, it's the compass guiding airlines, travel agencies, and passengers through seamless flight experiences.
 
 ## Connect with Me
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/nithyanand-b-6aa0a2220)!
