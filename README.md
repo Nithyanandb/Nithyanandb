@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for open source projects. My int
 - [Project Name 3]([link-to-project-3](https://github.com/Nithyanandb/WeBlog)): Brief description of project 3.
 
 ## Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/nithyanand-b-6aa0a2220))
+- [LinkedIn](https://www.linkedin.com/in/nithyanand-b-6aa0a2220)
 - [Personal Website](link-to-personal-website)
 
 
