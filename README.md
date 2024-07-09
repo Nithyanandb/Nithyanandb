@@ -4,9 +4,9 @@
 I'm a passionate Web developer with a knack for crafting innovative solutions and a fervent advocate for open source initiatives. My journey in the tech realm is fueled by a fervor for continuous learning and exploration. My areas of expertise encompass web development and machine learning, where I constantly strive to push the boundaries of what's possible.
 
 ## Skills
-- **Languages:** JavaScript, Python, Java, C
+- **Languages:** Java, Python, C, HTML and CSS
 - **Frameworks:** React.js
-- **Tools:** Git,GitHub
+- **Version Control:** Git,GitHub
 - **Databases:** MySQL, MongoDB
 
 ## Featured Projects
