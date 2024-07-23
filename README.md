@@ -5,7 +5,7 @@ I'm a passionate Web developer with a knack for crafting innovative solutions an
 
 ## Skills
 - **Languages:** Java, Python, C, HTML, CSS and Js
-- **Frameworks:** React.js
+- **Frameworks:** String Boot, React.js (Beginner)
 - **Version Control:** Git,GitHub
 - **Databases:** MySQL, MongoDB
 
