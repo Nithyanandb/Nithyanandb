@@ -11,7 +11,7 @@
 
 <table align="right">
  <tr><td><a href="https://github.com/Nithyanandb/Nithyanandb/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Nithyanandb/Nithyanandb/blob/main/README-in.md"><img src="./assets/in_flag.png" alt="India flag" width="17px"> हिंदी</a></td></tr>
+ <tr><td><a href="https://github.com/Nithyanandb/Nithyanandb/blob/main/README-in.md"><img src="./assets/in_flag.png" alt="India flag" width="17px">Tamil</a></td></tr>
 </table>
 
 <h2>ℹ️ Project info</h2>
@@ -20,10 +20,6 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Nithyanandb/Nithyanandb?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Nithyanandb/Nithyanandb?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nithyanandb/Nithyanandb?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/Nithyanandb/Nithyanandb?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
 </div>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -52,16 +48,10 @@
 
 <h2>:hammer_and_wrench: Things that help me get my code done</h2>
 <code><img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
-<code><img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
-<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
 
 <h2>:octocat: My latest GitHub projects</h2>
