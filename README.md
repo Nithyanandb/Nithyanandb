@@ -1,17 +1,18 @@
-# Hi there, I'm Nithyanand! 👋
+# Hi, I'm Nithyanand! 👋
 
 ## About Me
-I'm a passionate Web developer with a knack for crafting innovative solutions and a fervent advocate for open source initiatives. My journey in the tech realm is fueled by a fervor for continuous learning and exploration. My areas of expertise encompass web development and machine learning, where I constantly strive to push the boundaries of what's possible.
+I’m a passionate web developer and open-source enthusiast committed to crafting innovative solutions and exploring the cutting edge of technology. With expertise in web development and machine learning, I strive to push the boundaries of what’s possible through continuous learning and practical application.
 
 ## Skills
-- **Languages:** Java, Python, C, HTML, CSS and Js
-- **Frameworks:** String Boot, React.js (Beginner)
-- **Version Control:** Git,GitHub
+- **Languages:** Java, Python, C, HTML, CSS, JavaScript
+- **Frameworks:** Spring Boot, React.js (Beginner)
+- **Version Control:** Git, GitHub
 - **Databases:** MySQL, MongoDB
 
 ## Featured Projects
-- **[Blog-Website](https://github.com/Nithyanandb/WeBlog):** Embark on a journey through the digital realm with WeBlog, where adventures, tips, and stories from travels around the globe come to life. It's not just a blog it's a companion, a confidant, and a canvas for sharing experiences and insights with fellow wanderers.
-- **[Flight_Ticket_Database](https://github.com/Nithyanandb/Flight_Ticket_Database):** Dive into the world of flight management with the Flight Ticket Database a meticulously curated repository housing essential details about flight tickets. From flight numbers to passenger information, it's the compass guiding airlines, travel agencies, and passengers through seamless flight experiences.
+- **[Blog-Website](https://github.com/Nithyanandb/WeBlog):** A dynamic blog platform for sharing travel adventures and insights.
+- **[Flight Ticket Database](https://github.com/Nithyanandb/Flight_Ticket_Database):** A comprehensive repository for managing flight ticket details.
 
 ## Connect with Me
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/nithyanand-b-6aa0a2220)!
+- [LinkedIn](https://www.linkedin.com/in/nithyanand-b-6aa0a2220)
+- [Portfolio](https://nithyanandb.github.io/portfolio.github.io/)
