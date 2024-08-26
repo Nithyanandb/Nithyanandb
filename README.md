@@ -5,7 +5,7 @@ I’m a passionate web developer and open-source enthusiast committed to craftin
 
 ## Skills
 - **Languages:** Java, Python, C, HTML, CSS, and JavaScript
-- **Frameworks:** Spring Boot,Hibernate, REST API, JDBC, Spring Security, Tailwind CSS
+- **Frameworks:** Spring Boot, Hibernate, REST API, JDBC, Spring Security, Tailwind CSS
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL, MongoDB
 
