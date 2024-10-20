@@ -1,7 +1,7 @@
 # Hi, I'm **Nithyanand**! 👋
 
 ## About Me
-I’m a passionate **Backend Developer** and open-source enthusiast committed to crafting innovative solutions and exploring the cutting edge of technology. With expertise in **web development** and **machine learning**, I strive to push the boundaries of what’s possible through continuous learning and practical application.
+I’m a passionate **Java Full Stack Developer** and open-source enthusiast committed to crafting innovative solutions and exploring the cutting edge of technology. With expertise in **web development** and **machine learning**, I strive to push the boundaries of what’s possible through continuous learning and practical application.
 
 ## 📞 Contact 
 - **Phone:** +91 9080970408
