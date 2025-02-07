@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,43,45,63,62,74,83&height=300&section=header&text=Nithyanand%20B&fontSize=70&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,43,45,63,62,74,83&height=300&section=header&text=Nithyanand%20B&fontSize=70&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developement%20|%20AI%20Enthusiast&descSize=20&descAlignY=65" width="100%"/>
 </div>
 
 <!-- Introduction -->
