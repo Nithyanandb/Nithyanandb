@@ -1,26 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&h=400&q=80" alt="coding banner" width="100%"/>
-</div>
-
-<!-- Introduction -->
-<h1 align="center">👋 Hello, World!</h1>
-
-<p align="center">
-  <em>"The first step is to establish that something is possible; then probability will occur."</em>
-</p>
-
-<!-- GitHub Stats -->
-<div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YOUR_USERNAME)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/YOUR_USERNAME)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/YOUR_USERNAME)
-  
-</div>
-
 <!-- Skills Section -->
 <div align="center">
   <h2>
@@ -110,12 +87,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithyanandb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithyanandb&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyanandb&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Top Languages"/>
 </div>
 
 <!-- Trophies Section -->
@@ -125,7 +102,7 @@
     Achievements
   </h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithyanandb&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 <!-- Activity Graph -->
@@ -135,7 +112,7 @@
     Contribution Graph
   </h2>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&line=58A6FF&point=58A6FF&color=C9D1D9" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithyanandb&theme=react-dark&hide_border=true&bg_color=0D1117&line=58A6FF&point=58A6FF&color=C9D1D9" alt="Activity Graph"/>
 </div>
 
 <!-- Profile Views -->
@@ -145,7 +122,7 @@
     Profile Views
   </h2>
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nithyanandb&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
 </div>
 
 <!-- Connect Section -->
