@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&h=400&q=80" alt="coding banner" width="100%"/>
+  <img src="https://wallpapers.com/images/hd/starry-snow-night-professional-desktop-2wladjfqvdeiv2g2.jpg" alt="coding banner" width="100%"/>
 </div>
 
 <!-- Introduction -->
