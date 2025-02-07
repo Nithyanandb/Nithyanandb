@@ -159,14 +159,11 @@
   </h2>
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Nithyanandb&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
-  
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/bnithyanand" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-  </div>
+<img src="https://komarev.com/ghpvc/?username=Nithyanandb&color=blue" 
+     alt="Profile Views" 
+     style="border-radius: 15px;">
 
+  
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=2,3,4,5,6" width="100%"/>
 </div>
