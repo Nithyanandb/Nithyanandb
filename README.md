@@ -1,3 +1,8 @@
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,43,45,63,62,74,83&height=300&section=header&text=Nithyanand%20B&fontSize=70&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=65" width="100%"/>
+</div>
+
 <!-- Introduction -->
 <h1 align="center">👋 Hello, World!</h1>
 
@@ -5,17 +10,19 @@
   <em>"The first step is to establish that something is possible; then probability will occur."</em>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats with Modern Layout -->
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nithyanandb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nithyanandb&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithyanandb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Nithyanandb)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithyanandb&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/Nithyanandb)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyanandb&layout=compact&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Nithyanandb)
-  
+  <!-- Languages Card -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyanandb&layout=compact&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
+<!-- Animated Separator -->
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,3,4,5,6" width="100%"/>
+
+ 
 <!-- Tech Stack -->
 <div align="center">
   <h2>
@@ -81,19 +88,31 @@
   </table>
 </div>
 
-<!-- Detailed Skills -->
+<!-- Animated Separator -->
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,3,4,5,6" width="100%"/>
+
+ 
+<!-- Detailed Skills with Modern Cards -->
 <div align="center">
-  <h3>💻 Core Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs&theme=dark" />
+  <div style="background: linear-gradient(to right, #0D1117, #161B22); padding: 20px; border-radius: 10px; margin: 10px 0;">
+    <h3>💻 Core Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs&theme=dark" />
+  </div>
   
-  <h3>🎨 Frontend & Design</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,materialui&theme=dark" />
+  <div style="background: linear-gradient(to right, #0D1117, #161B22); padding: 20px; border-radius: 10px; margin: 10px 0;">
+    <h3>🎨 Frontend & Design</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,materialui&theme=dark" />
+  </div>
   
-  <h3>⚙️ Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,mongodb,redis&theme=dark" />
+  <div style="background: linear-gradient(to right, #0D1117, #161B22); padding: 20px; border-radius: 10px; margin: 10px 0;">
+    <h3>⚙️ Backend & Database</h3>
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,mongodb,redis&theme=dark" />
+  </div>
   
-  <h3>🛠️ DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux&theme=dark" />
+  <div style="background: linear-gradient(to right, #0D1117, #161B22); padding: 20px; border-radius: 10px; margin: 10px 0;">
+    <h3>🛠️ DevOps & Tools</h3>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux&theme=dark" />
+  </div>
 </div>
 
 <!-- Development Tools -->
@@ -107,6 +126,9 @@
   </p>
 </div>
 
+<!-- Animated Separator -->
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,3,4,5,6" width="100%"/>
+ 
 <!-- Trophies Section -->
 <div align="center">
   <h2>
@@ -114,7 +136,7 @@
     Achievements
   </h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Nithyanandb&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithyanandb&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <!-- Activity Graph -->
@@ -127,38 +149,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithyanandb&theme=react-dark&hide_border=true&bg_color=0D1117&line=58A6FF&point=58A6FF&color=C9D1D9" alt="Activity Graph"/>
 </div>
 
-<!-- Profile Views -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width="25px" height="20px">
-    Profile Views
-  </h2>
-  
-  <img src="https://komarev.com/ghpvc/?username=Nithyanandb&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
-</div>
-
 <!-- Connect Section -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,3,4,5,6" width="100%"/>
+  
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px" height="20px">
     Let's Connect
   </h2>
-  
-  <a href="https://www.linkedin.com/in/bnithyanand">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 
-  <a href="https://portfolio-frontend-iptz.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
-<!-- Footer Quote -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="25px" height="20px">
-    Daily Quote
-  </h2>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Nithyanandb&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <div align="center" style="margin: 20px 0;">
+    <a href="https://www.linkedin.com/in/bnithyanand" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0D1117" alt="LinkedIn" />
+    </a>
+  </div>
+
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=2,3,4,5,6" width="100%"/>
 </div>
