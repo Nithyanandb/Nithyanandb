@@ -13,11 +13,11 @@
 <!-- GitHub Stats -->
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/YOUR_USERNAME)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YOUR_USERNAME)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/YOUR_USERNAME)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/YOUR_USERNAME)
   
 </div>
 
@@ -90,18 +90,34 @@
   </tr>
 </table>
 
-<!-- Activity Graph -->
+<!-- Trophies -->
 <div align="center">
   
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+  ### 🏆 GitHub Trophies
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/YOUR_USERNAME)
   
 </div>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+<!-- Activity Graph -->
+<div align="center">
+  
+  ### 📈 Contribution Graph
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&line=58A6FF&point=58A6FF&color=C9D1D9)](https://github.com/YOUR_USERNAME)
+  
+</div>
 
+<!-- Profile Views -->
+<div align="center">
+  
+  ### 👀 Profile Views
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=for-the-badge)
+  
+</div>
+
+<!-- Social Links -->
 <div align="center">
   
   ### 🤝 Let's Connect!
@@ -109,5 +125,14 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://YOUR_PORTFOLIO)
+  
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+  ### 💡 Random Dev Quote
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/YOUR_USERNAME)
   
 </div>
