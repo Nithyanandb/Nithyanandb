@@ -1,6 +1,7 @@
 <!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://wallpapers.com/images/hd/starry-snow-night-professional-desktop-2wladjfqvdeiv2g2.jpg" alt="coding banner" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1600&h=400&q=80" alt="Technology Banner" width="100%"/>
 </div>
 
 <!-- Introduction -->
