@@ -1,12 +1,3 @@
-<!-- Header Banner -->
-<!-- Header Banner -->
-<!-- Header Banner -->
-<div align="center" style="margin: -20px -20px 20px -20px">
-  <img src="https://wallpapers.com/images/hd/starry-snow-night-professional-desktop-2wladjfqvdeiv2g2.jpg" 
-       alt="Starry Night Banner" 
-       style="max-height: 380px; width: 100%; object-fit: cover; border-radius: 0 0 15px 15px; box-shadow: 0 4px 12px rgba(88, 166, 255, 0.15);"/>
-</div>
-
 <!-- Introduction -->
 <h1 align="center">👋 Hello, World!</h1>
 
