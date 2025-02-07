@@ -132,7 +132,7 @@
 <!-- Trophies Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25px" height="20px">
+  
     Achievements
   </h2>
   
