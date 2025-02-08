@@ -6,9 +6,6 @@
 <!-- Introduction -->
 <h1 align="center">👋 Hello, World!</h1>
 
-<p align="center">
-  <em>"The first step is to establish that something is possible; then probability will occur."</em>
-</p>
 
 <!-- GitHub Stats with Modern Layout -->
 <div align="center">
